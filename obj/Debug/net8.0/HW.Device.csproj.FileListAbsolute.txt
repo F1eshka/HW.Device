@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Device\HW.Device\bin\Debug\net8.0\HW.Device.exe
+C:\Users\Rog\source\repos\HW.Device\HW.Device\bin\Debug\net8.0\HW.Device.deps.json
+C:\Users\Rog\source\repos\HW.Device\HW.Device\bin\Debug\net8.0\HW.Device.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Device\HW.Device\bin\Debug\net8.0\HW.Device.dll
+C:\Users\Rog\source\repos\HW.Device\HW.Device\bin\Debug\net8.0\HW.Device.pdb
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.dll
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\refint\HW.Device.dll
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.pdb
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\HW.Device.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Device\HW.Device\obj\Debug\net8.0\ref\HW.Device.dll
